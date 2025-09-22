@@ -1,0 +1,2 @@
+# EvaluacionParcialRecuperativaNota1VicenteValdivia
+Ejercicio tipo prueba recuperativo
